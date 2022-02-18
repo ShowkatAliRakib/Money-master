@@ -1,8 +1,5 @@
 
-function getIputValue(){
-    
-    return incomeAmount;
-}
+
 
 
 
@@ -106,12 +103,6 @@ document.getElementById("saveBtn").addEventListener("click", function(){
 
 
 
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/Porgramming-Hero-web-course/money-master-ShowkatAliRakib.git
-// git push -u origin main
 
 
 
