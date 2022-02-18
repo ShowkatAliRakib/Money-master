@@ -1,0 +1,14 @@
+body {
+    background: rgb(179, 175, 175);
+}
+h1{
+    color: blueviolet;
+    text-align: center; 
+    margin: 40px;
+}
+
+
+.imagewidth{
+    width: 400px;
+    height: 650px;
+}
